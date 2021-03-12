@@ -24,5 +24,7 @@ void spriteSetup()
 int main()
 {
     spriteSetup();
+    //printf(Sprite.Xpos);
+    printf("test");
     return(0);
 }
